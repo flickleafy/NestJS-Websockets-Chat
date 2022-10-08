@@ -1,0 +1,9 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "terminal",
+  "container": {
+    "port": 3000,
+    "startScript": "start:debug"
+  }
+}
